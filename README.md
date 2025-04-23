@@ -33,7 +33,7 @@ cd ~/ros_ws
 ```
 
 ```bash
-git clone https://github.com/LihanChen2004/pcd2pgm.git
+git clone https://github.com/hyyyyyyz/pcd2pgm.git
 ```
 
 ### 2.3 Build
